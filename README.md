@@ -1,4 +1,4 @@
-# py133cli, a cli script made in python for 1337 website
+# py1337cli, a cli script made in python for 1337 website
 
 using [1337x by hemantapkh](https://github.com/hemantapkh/1337x)'s module
 
