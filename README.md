@@ -1,6 +1,6 @@
 # py133cli, a cli script made in python for 1337 website
 
-using [1337x by hemantapkh](https://github.com/hemantapkh/1337x)
+using [1337x by hemantapkh](https://github.com/hemantapkh/1337x)'s module
 
 ![Main screen](img1.png)
 ![Searching option](img2.png)
