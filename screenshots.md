@@ -1,0 +1,5 @@
+![Main screen](img1.png)
+![Searching option](img2.png)
+![Result of a search](img3.png)
+![Another search option](img4.png)
+![X not found](img5.png)
