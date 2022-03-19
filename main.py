@@ -11,11 +11,11 @@ from sys import exit
 CLEARCMD = None # set to pass to ignore and not clear the terminal
 
 def clearscr():
-    if CLEARCMD != None:
-        system(CLEARCMD)
-
-    elif CLEARCMD == 'pass':
+    if CLEARCMD == 'pass':
         pass
+
+    elif CLEARCMD != None:
+        system(CLEARCMD)
 
     elif CLEARCMD == None:
         if sysname() == 'Windows':
